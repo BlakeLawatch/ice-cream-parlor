@@ -1,0 +1,26 @@
+main {
+    background-image: url(https://images.unsplash.com/photo-1500382017468-9049fed747ef?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZmFybWxhbmR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=1000&q=60);
+    max-width: 100%;
+}
+
+header {
+    background-color: #c0b8ad
+}
+
+.cart {
+    background-color: #c0b8ad;
+}
+
+img {
+    max-height: 20vh;
+    max-width: 75%;
+    min-width: 75%;
+}
+
+footer {
+    background-color: #01678d;
+}
+
+button {
+    min-width: 60%;
+}
